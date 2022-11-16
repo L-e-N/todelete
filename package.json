@@ -1,0 +1,6 @@
+{
+  "name": "todelete2",
+  "dependencies": {
+    "@dataform/core": "2.0.1"
+  }
+}
